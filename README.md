@@ -3,8 +3,7 @@ Problem Type **Regression**:  Predict the median house value in California distr
 
 # California House Price Prediction
 
-## 🧠 Problem Type
-**Regression** – Predict the median house value in California districts using census data.
+Problem Type **Regression** – Predict the median house value in California districts using census data.
 
 ## 📊 Dataset
 - **Source**: Scikit-learn California Housing Dataset
