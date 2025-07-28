@@ -1,5 +1,5 @@
 # california-housing-price-prediction
-Predict the median house value in California districts using census data.
+Problem Type **Regression**:  Predict the median house value in California districts using census data.
 
 # California House Price Prediction
 
