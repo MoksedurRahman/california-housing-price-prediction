@@ -1,26 +1,26 @@
 # Here’s a high-level overview of the main steps:
 ## 1. Problem Definition
-    - Understand the problem you're trying to solve.
+- Understand the problem you're trying to solve.
 
-    - Decide the type of machine learning: supervised, unsupervised, or reinforcement learning.
+- Decide the type of machine learning: supervised, unsupervised, or reinforcement learning.
 
-    - Define the objective: classification, regression, clustering, etc.
+- Define the objective: classification, regression, clustering, etc.
 
 ## 2. Data Collection
-    - Gather relevant data from various sources: databases, APIs, sensors, etc.
+- Gather relevant data from various sources: databases, APIs, sensors, etc.
 
-    - Ensure the data is representative of the problem space.
+- Ensure the data is representative of the problem space.
 
 ## 3. Data Preprocessing (Data Cleaning)
-    - Handle missing values.
+- Handle missing values.
 
-    - Remove duplicates.
+- Remove duplicates.
 
-    - Filter out noise or outliers.
+- Filter out noise or outliers.
 
-    - Normalize or standardize data.
+- Normalize or standardize data.
 
-    - Convert categorical data into numerical formats (e.g., one-hot encoding).
+- Convert categorical data into numerical formats (e.g., one-hot encoding).
 
 ## 4. Exploratory Data Analysis (EDA)
 - Visualize and summarize data to understand patterns and relationships.
