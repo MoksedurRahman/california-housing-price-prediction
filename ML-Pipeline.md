@@ -23,61 +23,61 @@
     - Convert categorical data into numerical formats (e.g., one-hot encoding).
 
 ## 4. Exploratory Data Analysis (EDA)
-    - Visualize and summarize data to understand patterns and relationships.
+- Visualize and summarize data to understand patterns and relationships.
 
-    - Identify trends, anomalies, and feature importance.
+- Identify trends, anomalies, and feature importance.
 
 ## 5. Feature Engineering
-    - Select important features (feature selection).
+- Select important features (feature selection).
 
-    - Create new features (feature extraction).
+- Create new features (feature extraction).
 
-    - Reduce dimensionality if needed (e.g., PCA).
+- Reduce dimensionality if needed (e.g., PCA).
 
 ## 6. Data Splitting
-    - Split the dataset into:
+- Split the dataset into:
 
-    - Training set
+- Training set
 
-    - Validation set (optional)
+- Validation set (optional)
 
-    - Test set
+- Test set
 
 ## 7. Model Selection
-    - Choose appropriate algorithms (e.g., Linear Regression, Decision Trees, SVM, Neural Networks).
+- Choose appropriate algorithms (e.g., Linear Regression, Decision Trees, SVM, Neural Networks).
 
-    - Consider complexity, interpretability, and performance.
+- Consider complexity, interpretability, and performance.
 
 ## 8. Model Training
-    - Train the model using the training data.
+- Train the model using the training data.
 
-    - Adjust parameters during training.
+- Adjust parameters during training.
 
 ## 9. Model Evaluation
-    - Use validation/test data to evaluate performance.
+- Use validation/test data to evaluate performance.
 
-    - Metrics depend on the task:
+- Metrics depend on the task:
 
-    - Classification: Accuracy, Precision, Recall, F1-score, ROC-AUC
+- Classification: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-    - Regression: RMSE, MAE, R²
+- Regression: RMSE, MAE, R²
 
 ## 10. Hyperparameter Tuning
-    - Optimize model parameters using techniques like:
+- Optimize model parameters using techniques like:
 
-    - Grid Search
+- Grid Search
 
-    - Random Search
+- Random Search
 
-    - Bayesian Optimization
+- Bayesian Optimization
 
 ## 11. Model Deployment
-    - Integrate the model into a production environment.
+- Integrate the model into a production environment.
 
-    - Expose as an API or embed in an application.
+- Expose as an API or embed in an application.
 
 ## 12. Monitoring and Maintenance
-    - Monitor model performance in real-time.
+- Monitor model performance in real-time.
 
-    - Retrain or update the model as data and patterns change.
+- Retrain or update the model as data and patterns change.
 
